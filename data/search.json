@@ -7,10 +7,9 @@
     "isInner": true
   },
   {
-    "name": "百度",
-    "url": "https://www.baidu.com/s?wd=",
-    "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/baidu.svg",
-    "placeholder": "百度一下",
+    "name": "必应",
+    "url": "https://cn.bing.com/search?q=",
+    "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/bing.svg",
     "blocked": false,
     "isInner": false
   },
@@ -22,17 +21,18 @@
     "isInner": false
   },
   {
-    "name": "必应",
-    "url": "https://cn.bing.com/search?q=",
-    "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/bing.svg",
-    "blocked": false,
-    "isInner": false
-  },
-  {
     "name": "GitHub",
     "url": "https://github.com/search?q=",
     "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/github.svg",
     "placeholder": "Search GitHub",
+    "blocked": false,
+    "isInner": false
+  },
+  {
+    "name": "百度",
+    "url": "https://www.baidu.com/s?wd=",
+    "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/baidu.svg",
+    "placeholder": "百度一下",
     "blocked": false,
     "isInner": false
   },
